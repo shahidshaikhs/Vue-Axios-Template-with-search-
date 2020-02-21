@@ -1,4 +1,7 @@
-# lesson-03-axios
+# Vue JS with Axios (search included)
+
+## Demo
+https://vue-axios-template.herokuapp.com/
 
 ## Project setup
 ```
